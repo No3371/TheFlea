@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Manifest>
+  <ID>the_flea</ID>
+  <Name>The Flea</Name>
+  <Author>developer</Author>
+  <ModVersion>1.0.0</ModVersion>
+  <Description>Call the Flea on the phone (3532) to buy items other players sold and to consign your own. You are paid for your last batch on the next visit, at a price set by how much of each item players have sold. The phone call makes no request. The mod contacts the configured market server only when the day's customers are generated on the day a called trader is due, and not when he leaves. Your Steam name is shown to buyers of your items unless Sell anonymously is on. Changes the game economy.</Description>
+  <GameVersions>
+    <Version>0.46</Version>
+  </GameVersions>
+  <Prerequisites />
+  <Assemblies>
+    <Assembly>TheFlea.dll</Assembly>
+  </Assemblies>
+  <Capabilities>
+    <Capability>network</Capability>
+    <Capability>steam</Capability>
+  </Capabilities>
+</Manifest>

@@ -1,0 +1,16 @@
+{
+  "name": "the-flea-market",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "check": "tsc",
+    "test": "node --test test/market.test.ts test/drift.test.ts",
+    "types": "wrangler types --strict-vars=false"
+  },
+  "devDependencies": {
+    "typescript": "6.0.3",
+    "wrangler": "4.154.0"
+  }
+}

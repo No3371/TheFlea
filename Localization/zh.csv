@@ -1,0 +1,64 @@
+# zh.csv Simplified Chinese. The game's only Chinese locale; the Traditional Chinese mod converts this text when it's displayed.
+lang_code,zh
+trader_name,跳蚤
+config_server_url,市场网址
+config_market_code,市场代码（代码相同的玩家可以互相交易）
+config_cooldown,两次致电的间隔天数
+config_anonymous,匿名出售（隐藏你的 Steam 名称）
+config_hide_sellers,隐藏其他卖家的名称
+tooltip_seller,卖家：{0}
+feature_market_price,跳蚤市场价格
+feature_market_fee,商人抽成
+feature_market_category,分类价格
+feature_market_item,品项价格 (?)
+seller_anonymous,匿名
+seller_unknown,未知
+seller_hidden,跳蚤市场
+phone_pick_1,跳蚤市场。想找什么？
+phone_pick_2,跳蚤市场。需要什么？
+phone_pick_3,跳蚤市场。要帮你找什么？
+phone_pick_4,这边是跳蚤市场。你要什么？
+phone_more,还有别的吗？
+phone_cancel,算了。
+phone_bye_1,好。有需要再打给我。
+phone_bye_2,没问题。随时抠我。
+phone_bye_3,好啊。改变主意就打给我。
+phone_coming_1,我去打听打听，明天过去。
+phone_coming_2,给我一天，明天过去。
+phone_coming_3,我有认识的人可能有货。明天见。
+phone_coming_4,明天应该就有货了，我会过去一趟。
+phone_coming_late_1,最近货不好找。给我 {0} 天。
+phone_coming_late_2,这个比较难找。{0} 天后我过去。
+phone_coming_late_3,这周忙不过来。{0} 天后见。
+phone_any,什么都行。
+visit_paid_over_1,你上次那些玩意卖了{0}信用点，比原价{2}高了{1}。
+visit_paid_over_2,好消息。你的东西卖了{0}信用点，比行情价{2}多了{1}。
+visit_paid_over_3,我把你的货卖出{0}信用点。本来只值{2}，多赚了{1}。
+visit_paid_under_1,你的货卖了{0}信用点，比行情价{2}少了{1}。
+visit_paid_under_2,你的东西卖了{0}信用点，亏了点，比原价{2}低了{1}，其中一部分是我的抽成。
+visit_paid_under_3,上次的货卖了{0}信用点。原价{2}，差了{1}，其中一部分是我的抽成。
+visit_paid_even_1,给，上次的货款{0}信用点，不多不少。
+visit_paid_even_2,你的东西卖了{0}信用点，差不多行情价。
+visit_offers_1,这是今天的货。有要帮你卖的吗？钱等我下次来再给你。
+visit_offers_2,看看这些吧。有东西要卖的话给我，下次来给你钱。
+visit_offers_3,最近流通的就这些。想卖什么就交给我，下次来给你钱。
+visit_empty_1,没找到你要的东西。有要卖的东西吗？钱等我下次来再给你。
+visit_empty_2,今天没料。不过我还是可以帮你卖东西，下次来再转钱给你。
+visit_empty_3,市场缺货。有东西要卖吗？看卖多少下次带给你。
+visit_wrong_1,这个我卖不了。
+visit_wrong_2,这东西没人会买。
+visit_wrong_3,这个不行，抱歉。
+visit_caught_1,等等，这个{0}跟它标的不一样。我只能按它的真实情况卖。
+visit_caught_2,想得美。这个{0}有问题，只能照实上架。
+visit_caught_3,我看过这个{0}了，不是真货。价钱得往下调。
+visit_hot_1,这东西还太烫手。等没人找它了再拿来。
+visit_hot_2,风头还没过，先放凉了再说。
+visit_hot_3,他们还在找这个呢，我不碰。
+visit_contraband_1,违禁品我不收。电话生意担不起这个风险。
+visit_contraband_2,这种东西不行。我还想留着这个号码。
+visit_full_1,这趟只能带这么多了。目前我最多收{0}件。
+visit_full_2,包满了。你的货我每趟只收{0}件。
+visit_level_up_1,跟你做生意不错。以后我每趟带{0}件货，收你{1}件。
+visit_level_up_2,咱们也算老交情了，给你多留点地方：每趟{0}件货，收{1}件。
+flea_card_name,跳蚤市场名片
+flea_card_flavor,拨打 3532 可以买到其他店卖出的东西，也可以寄卖自己的货。货款在下次来访时付清。

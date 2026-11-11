@@ -1,0 +1,45 @@
+{
+	"$schema": "./node_modules/wrangler/config-schema.json",
+	"name": "the-flea-market",
+	"main": "src/index.ts",
+	"compatibility_date": "2026-10-20",
+	"send_metrics": false,
+	"vars": {
+		// Offers players their own listings. Leave off for real players.
+		"ALLOW_SELF": "false"
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "the-flea-market",
+			"database_id": "a0cdabec-7584-44ce-aa25-65a0c836f86a",
+			"migrations_dir": "migrations"
+		}
+	],
+	"ratelimits": [
+		{
+			"name": "LIMITER",
+			"namespace_id": "3532",
+			// Approximate, and counted separately in each Cloudflare location.
+			"simple": {
+				"limit": 10,
+				"period": 60
+			}
+		},
+		{
+			// Sales are the only requests that store listings.
+			"name": "SALES_LIMITER",
+			"namespace_id": "3533",
+			"simple": {
+				"limit": 3,
+				"period": 60
+			}
+		}
+	],
+	"triggers": {
+		// Daily cleanup of old records.
+		"crons": [
+			"17 4 * * *"
+		]
+	}
+}

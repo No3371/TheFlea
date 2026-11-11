@@ -1,0 +1,64 @@
+# en.csv English
+lang_code,en
+trader_name,The Flea
+config_server_url,Market server URL
+config_market_code,Market code (players with the same code trade together)
+config_cooldown,Days between calls
+config_anonymous,Sell anonymously (hide your Steam name)
+config_hide_sellers,Hide other sellers' names
+tooltip_seller,Seller: {0}
+feature_market_price,Flea market price
+feature_market_fee,Trader's cut
+feature_market_category,Category price
+feature_market_item,Type price (?)
+seller_anonymous,Anonymous
+seller_unknown,Unknown
+seller_hidden,Flea Market
+phone_pick_1,Flea market. What are you looking for?
+phone_pick_2,Flea market. What do you need?
+phone_pick_3,Flea market. What can I find you?
+phone_pick_4,You've reached the flea market. What do you want?
+phone_more,What else?
+phone_cancel,Never mind.
+phone_bye_1,Alright. Call me when you need something.
+phone_bye_2,No problem. You've got my number.
+phone_bye_3,Sure. Call me if you change your mind.
+phone_coming_1,I'll ask around and come by tomorrow.
+phone_coming_2,Give me a day. I'll come by tomorrow.
+phone_coming_3,I know a few people. See you tomorrow.
+phone_coming_4,I should have something by tomorrow. I'll stop in.
+phone_coming_late_1,Things are slow. Give me {0} days.
+phone_coming_late_2,That one's harder to find. I'll come by in {0} days.
+phone_coming_late_3,I'm stretched thin this week. See you in {0} days.
+phone_any,Anything.
+visit_paid_over_1,Your stuff sold for {0} credits. That's {1} more than the {2} it was worth.
+visit_paid_over_2,Good news. Your stuff went for {0} credits. That's {1} more than the {2} it was worth.
+visit_paid_over_3,I got you {0} credits for your stuff. It was only worth {2} so that's {1} extra.
+visit_paid_under_1,Your stuff sold for {0} credits. That's {1} less than the {2} it was worth.
+visit_paid_under_2,Your stuff went for {0} credits. That's {1} less than the {2} it was worth. Part of that's my cut.
+visit_paid_under_3,I got you {0} credits for your stuff. It was worth {2} so that's {1} short. Part of that's my cut.
+visit_paid_even_1,Your stuff sold for {0} credits. About what it was worth.
+visit_paid_even_2,I got you {0} credits for your stuff. About what it was worth.
+visit_offers_1,Here's what I've got today. Want me to sell anything? You'll get paid next time I'm by.
+visit_offers_2,Take a look at these. If you've got something to sell I'll pay you next time I'm by.
+visit_offers_3,This is what's going around. Give me anything you want sold and I'll pay you next visit.
+visit_empty_1,Couldn't find anything like that today. Want me to sell anything? You'll get paid next time I'm by.
+visit_empty_2,No luck today. I can still sell your stuff and pay you next time I'm by.
+visit_empty_3,I came up empty today. Got anything you want sold? I'll pay you next visit.
+visit_wrong_1,I can't sell that.
+visit_wrong_2,Nobody would buy that from me.
+visit_wrong_3,Not that one. Sorry.
+visit_caught_1,Hold on, this {0} isn't what it claims to be. I'll sell it as what it really is.
+visit_caught_2,Nice try. This {0} is off, so it goes on the market as it is.
+visit_caught_3,I checked this {0}, and it's not the real thing. The price is coming down.
+visit_hot_1,This is still too hot. Bring it back when nobody's looking for it.
+visit_hot_2,Not while it's hot. Let it cool off first.
+visit_hot_3,They're still looking for this one. Not touching it.
+visit_contraband_1,I don't move contraband. Too much heat for a phone business.
+visit_contraband_2,Not that stuff. I want to keep this number.
+visit_full_1,That's all I can carry this trip. {0} items is my limit for now.
+visit_full_2,My bag's full. I only take {0} items a trip from you.
+visit_level_up_1,You're good business. From now on I'll bring {0} offers and take {1} items a trip.
+visit_level_up_2,We've done enough trade that I'll make room for you: {0} offers and {1} items a trip.
+flea_card_name,Flea Market Card
+flea_card_flavor,Dial 3532 to buy what other shops sold or to sell your goods on consignment. Paid on the next visit.
