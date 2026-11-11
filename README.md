@@ -4,6 +4,8 @@
 
 A mod for Probably Stolen.
 
+I've always been fascinated by "passive multiplayer". I even built one such mod for The Long Dark. For Probably Stolen, a player trading mod is the most straight forward direction, it's nothing new and people have done it, but I still want to try building one that is balanced, integrated and less-immersion-breaking.
+
 The Flea is a trader you call on the phone. He buys the items you no longer want and brings items other players sold. Prices rise and fall with what players are actually selling and buying.
 
 This mod changes the game's economy and talks to an online market server. See [What the mod sends](#what-the-mod-sends) before you turn it on.
