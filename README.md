@@ -1,4 +1,8 @@
+![](https://github.com/No3371/TheFlea/blob/master/arts/banner.png)
+
 # The Flea
+
+A mod for Probably Stolen.
 
 The Flea is a trader you call on the phone. He buys the items you no longer want and brings items other players sold. Prices rise and fall with what players are actually selling and buying.
 
