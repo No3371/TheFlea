@@ -8,8 +8,6 @@ I've always been fascinated by "passive multiplayer". I even built one such mod 
 
 The Flea is a trader you call on the phone. He buys the items you no longer want and brings items other players sold. Prices rise and fall with what players are actually selling and buying.
 
-This mod changes the game's economy and talks to an online market server. See [What the mod sends](#what-the-mod-sends) before you turn it on.
-
 ## Getting started
 
 1. Open the Mods menu, select **The Flea** and press **Activate**.
